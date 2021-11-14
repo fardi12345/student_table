@@ -1,0 +1,60 @@
+*,body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(173, 169, 167) !important;
+}
+.student{
+    background-color: rgb(218, 225, 238) !important;
+    position: relative;
+}
+label{
+    margin-left: 1em;
+}
+.table{
+    margin-top: 8em;
+}
+#add_data{
+    position: absolute;
+    right: 1em;
+    top: 8em;
+    width: 8em;
+    box-shadow: 1px 3px 9px grey;
+}
+.modal-footer .btn-success{
+    width: 8em;
+    box-shadow: 1px 3px 9px #b7b4b4;
+}
+.modal-add{
+    float: right;
+    margin-right: 1.2em;
+    margin-top: 3em;
+    width: 7.6em;
+}
+select{
+    margin-top: 3em;
+    width: 14em !important;
+}
+select{
+    margin-left:1em !important;
+}
+.modal-elements-input{
+    margin-left: 3em !important;
+    width: 14em !important;
+}
+.span-one{
+    display: inline-block;
+    margin-top: 1.5em;
+    margin-left: 1em;
+}
+.span-two{
+    display: inline-block;
+    margin-left: 3em;
+    margin-top: 1.5em;
+}
+#student-input{
+    width: 97% !important;
+    margin-left: 1em;
+}
